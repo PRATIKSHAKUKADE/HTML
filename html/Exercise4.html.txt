@@ -1,0 +1,15 @@
+<html>
+<head>
+    <title>Different Fonts</title>
+</head>
+<body>
+    <p><font face="arial">Sleep is a vital part of our daily lives, yet it is often overlooked or not given the importance it deserves. It is a complex physiological process that allows our bodies and minds to rest and rejuvenate. Sleep can be divided into two basic stages: non-rapid eye movement (NREM) and rapid eye movement (REM) sleep. NREM sleep has four stages, each with distinct characteristics and functions. REM sleep, on the other hand, is the stage where dreaming occurs.
+
+    </font></p><br><br>
+    <p><font face="courier new">During NREM sleep, the body goes through a series of changes as it transitions from wakefulness to deeper stages of sleep. In the first stage, which is a transitional phase between wakefulness and sleep, the brain produces alpha and theta waves. This stage is often associated with light sleep and is easily disrupted. In the second stage, the body temperature drops, heart rate slows, and eye movements stop. This stage is a period of light sleep before entering deeper sleep stages.</font></p><br><br>
+    <p><font face="times new roman">The third and fourth stages of NREM sleep are the deep sleep stages. In the third stage, delta waves are produced, which are the slowest brain waves. This stage is often referred to as slow-wave sleep and is the stage where the body undergoes restorative processes such as tissue repair and growth. The fourth stage is similar to the third stage, but with an even higher proportion of delta waves. This stage is crucial for memory consolidation and cognitive functioning.</font></p><br><br>
+    <p><font face="comic sans ms">REM sleep, on the other hand, is characterized by rapid eye movements, increased brain activity, and vivid dreaming. This stage is important for emotional regulation, learning, and memory consolidation. REM sleep is also thought to play a role in the consolidation of motor skills and procedural memory.</font></p><br><br>
+    <p><font face="lucida console">In conclusion, sleep is a complex process that involves different stages and functions. NREM sleep is crucial for restorative processes and memory consolidation, while REM sleep is important for emotional regulation, learning, and memory consolidation. Adequate sleep is essential for optimal physical, cognitive, and emotional functioning. It is important to prioritize sleep and create a conducive sleep environment to ensure that we get the restful sleep we need.</font></p>
+
+</body>
+</html>

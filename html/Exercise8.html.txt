@@ -1,0 +1,16 @@
+<html>
+    <head>
+        <tittle><h3><b>Defination List Example</b></h3></tittle>
+    </head>
+    <body>
+        <h5>Newton Lows</h5>
+        <dl>
+            <dt>First Law</dt>
+            <dd>An object at rest tends to stay at rest, and an object in motion tends to stay in motion with the same speed and direction unless acted upon by an unbalanced force.</dd>
+            <dt>Second Law</dt>
+            <dd>The acceleration of an object is directly proportional to the net force acting on it and inversely proportional to its mass</dd>
+            <dt>Third Law</dt>
+            <dd>For every action, there is an equal and opposite reaction.</dd>
+        </dl>
+    </body>
+</html>

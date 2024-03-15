@@ -1,0 +1,12 @@
+<html>
+    <head>
+        <tittle><h1>CARTOON</h1></tittle>
+    </head>
+    <body>
+        <h4>ShinChan</h4>
+        <hr style="width:80%">
+        <p>
+            Crayon Shin-chan is a popular Japanese manga and anime series that follows the adventures of a mischievous five-year-old boy named Shinnosuke Nohara, better known as Shin-chan. The series is known for its comedic and sometimes irreverent humor, as well as its unique blend of everyday life and surreal elements. Shin-chan's antics often involve breaking the fourth wall, making sarcastic comments, and displaying a lack of tact when talking to adults. Despite its seemingly mature themes, the series is intended for all ages and has been translated into 30 languages and aired in 45 countries. The franchise includes various spin-offs, merchandise, and even live-action films. Overall, Crayon Shin-chan is a beloved cultural phenomenon that continues to entertain and captivate audiences worldwide.
+        </p>
+    </body>
+</html>
